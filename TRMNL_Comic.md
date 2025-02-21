@@ -29,7 +29,7 @@ Copy and paste the following code into the Markup box. This code will display a 
       <div class="column">
         <div class="content content">
           <!-- Centered Comic Image -->
-          <img src="{{ img }}" alt="{{ title }}" style="display: block; margin: 0 auto; max-width: 80%; height: auto; border-radius: 5px;" />
+          <img src="{{ img }}" alt="{{ title }}" style="display: block; margin: 0 auto; max-width: 90vw; max-height: 87vh; border-radius: 5px;">
         </div>
       </div>
     </div>
