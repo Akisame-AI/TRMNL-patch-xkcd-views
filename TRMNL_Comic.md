@@ -4,10 +4,10 @@
 
 There are 2 ways to add plugins to TRMNL. Automatic and Manual. 
 ## Automatic
-Log in to your TRMNL dashboard.
-On the left-hand menu, click on the 'Go to Plugins' button.
-Find the 'Private Plugin' Plugin to create a Private Plugin.
-Click 'import new' to import the plugin zip file found in this repository.
+Log in to your TRMNL dashboard.  
+On the left-hand menu, click on the 'Go to Plugins' button.  
+Find the 'Private Plugin' Plugin to create a Private Plugin.  
+Click 'import new' to import the plugin zip file found in this repository.  
 Click 'Save' to save the plugin. 
 
 ## Manual
